@@ -4,7 +4,7 @@ I'm Blasco - fullstack developer, community manager, solidity developer and owne
 
 
 ### My skills
-[![My Skills](https://skillicons.dev/icons?i=py,flask,bash,js,html,css,nodejs,express,react,solidity,materialui,mongodb,nginx,nextjs,prisma,discord,bots,pug&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,flask,bash,js,html,css,nodejs,express,react,solidity,materialui,mongodb,nginx,nextjs,prisma,discord,bots,pug&perline=7)](https://www.flamatech.io)
 
 
 ### My GitHub Metrics
